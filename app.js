@@ -88,7 +88,7 @@ const main = async () => {
         flow: adapterFlow,
         provider: adapterProvider,
         database: adapterDB,
-        version: 'v17.0',
+        version: 'v21.0',
     })
 }
 
