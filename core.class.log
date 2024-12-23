@@ -1,0 +1,51 @@
+[handleMsg]:  {
+  type: 'text',
+  from: '5214492610397',
+  to: '15551786967',
+  body: 'hola',
+  pushName: 'Fer Orenday'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_67aeb3b8-364a-4aed-a499-d4b0c279da95',
+  keyword: 'key_6e2cb96d-5fc9-4ead-9e4c-91b6c0303c12',
+  answer: '🙌 Hola bienvenido a este *Chatbot*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9df8ed673d34096bde72b4dc73241e16'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6893f288-1c56-41f7-81f5-ff4295712ff7',
+  keyword: 'ans_67aeb3b8-364a-4aed-a499-d4b0c279da95',
+  answer: 'te comparto los siguientes links de interes sobre el proyecto\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias*  para ver la lista de videos\n' +
+    '👉 *discord* unirte al discord',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f5a1f95e2d20a5decee53cd317b92143'
+}
